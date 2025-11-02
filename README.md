@@ -3,7 +3,7 @@
 
 ### **3️⃣ README Frontend (Next.js + React + Tailwind)**
 
-```markdown
+
 # Frontend - Chat com IA
 
 Frontend desenvolvido com **Next.js** e **React**, estilizado com **TailwindCSS**, consumindo a API do backend NestJS conectado a **MongoDB**.
